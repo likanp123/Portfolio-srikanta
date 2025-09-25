@@ -11,10 +11,10 @@
 }
 
 :root {
-    --bg-color: #081b29;
-    --second-bg-color: #112e42;
-    --text-color: #ededed;
-    --main-color: #00abf0;
+    --bg-color: #081b23;
+    --second-bg-color: #110e42;
+    --text-color: #edfded;
+    --main-color: #01abf0;
 }
 
 html {
@@ -80,7 +80,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9% 10px;
-    background: url('../jayanth.png') no-repeat;
+    background: url('../srikanta.png') no-repeat;
     background-size: 30%;
     background-position: right;
 }
@@ -884,3 +884,4 @@ span {
         opacity: 0;
     }
 }
+
